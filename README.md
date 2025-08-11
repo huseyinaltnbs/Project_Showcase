@@ -18,4 +18,5 @@ This repository is for **showcase purposes only**.
 All rights to the content in this repository are reserved.
 
 ## 📜 License
-See the [LICENSE](LICENSE.txt) file for full details.
+Each project has its own LICENSE file in its folder. Please check individual project directories for licensing information.
+
