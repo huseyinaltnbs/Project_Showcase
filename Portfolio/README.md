@@ -1,13 +1,18 @@
 # 🌐 Redemption Portfolio Website
 
-This repository contains **screenshots** and **details** of the **Redemption Portfolio Website**.  
+This repository contains **screenshots** and a **GIF demo** of the **Redemption Portfolio Website**.  
 It showcases the main sections of the site and its design features.  
 No source code is included — this repository is for presentation purposes only.
 
 ---
 
+## 🎥 Demo Preview
+![Website Demo](./screenshots/Demo.gif)
+
+---
+
 ## 🖼 Screenshots
-All screenshots are located in the `screenshots` folder:
+All visual materials are located in the `screenshots` folder:
 
 - 🏠 `Home.png` – Home page view  
 - 👥 `About Us.png` – About section  
@@ -16,7 +21,7 @@ All screenshots are located in the `screenshots` folder:
 - ✉️ `Contact.png` – Contact form  
 - 🗺 `Map.png` – Location map  
 
-[📂 View All Screenshots](./screenshots/)
+[📂 View All in Screenshots Folder](./screenshots/)
 
 ---
 
@@ -25,12 +30,6 @@ All screenshots are located in the `screenshots` folder:
 - Smooth **animated navigation** between sections  
 - Detailed **service descriptions** and project history  
 - Integrated **contact form** with multiple communication options  
-
----
-
-## 🎬 Demo
-If available, you can view a live demo of the website here:  
-[Demo(GIF)](Screenshots/demo.gif)
 
 ---
 
@@ -43,4 +42,4 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 Please refer to the **Contact** section screenshot for ways to get in touch.
 
 ---
-**Note:** This repository contains only visual screenshots of the website, not the source code.
+**Note:** This repository contains only visual materials (screenshots and demo GIF), not the source code.
