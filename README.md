@@ -18,4 +18,4 @@ This repository is for **showcase purposes only**.
 All rights to the content in this repository are reserved.
 
 ## 📜 License
-See the [LICENSE](LICENSE) file for full details.
+See the [LICENSE](LICENSE.txt) file for full details.
