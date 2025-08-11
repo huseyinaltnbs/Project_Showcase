@@ -7,7 +7,7 @@ No source code is included — this repository is for presentation purposes only
 ---
 
 ## 🎥 Demo Preview
-![Website Demo](./screenshots/Demo.gif)
+![Website Demo](./Screenshots/Demo.gif)
 
 ---
 
@@ -21,7 +21,7 @@ All visual materials are located in the `screenshots` folder:
 - ✉️ `Contact.png` – Contact form  
 - 🗺 `Map.png` – Location map  
 
-[📂 View All in Screenshots Folder](./screenshots/)
+[📂 View All in Screenshots Folder](./Screenshots/)
 
 ---
 
