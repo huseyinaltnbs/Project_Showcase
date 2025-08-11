@@ -5,31 +5,31 @@ A comprehensive desktop application designed for dental clinics to efficiently m
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ### Patient Management
-![Patients](screenshots/Patients.png)
+![Patients](Screenshots/Patients.png)
 
 ### Dentist Management
-![Dentists](screenshots/Dentists.png)
+![Dentists](Screenshots/Dentists.png)
 
 ### Appointment Scheduling
-![Appointments](screenshots/Appointments.png)
+![Appointments](Screenshots/Appointments.png)
 
 ### Treatment Records
-![Treatment Record](screenshots/Treatment_Record.png)
+![Treatment Record](Screenshots/Treatment_Record.png)
 
 ### Payment Collection
-![Payments](screenshots/Payments.png)
+![Payments](Screenshots/Payments.png)
 
 ### Income & Expense Tracking
-![Income & Expense](screenshots/Income_Expense.png)
+![Income & Expense](Screenshots/Income_Expense.png)
 
 ### Clinic Information
-![Clinic Info](screenshots/Clinic_Info.png)
+![Clinic Info](Screenshots/Clinic_Info.png)
 
 ### Database Settings
-![Database Settings](screenshots/Database_Settings.png)
+![Database Settings](Screenshots/Database_Settings.png)
 
 ---
 
