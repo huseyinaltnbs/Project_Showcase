@@ -12,16 +12,24 @@ No source code is included — this repository is for presentation purposes only
 ---
 
 ## 🖼 Screenshots
-All visual materials are located in the `screenshots` folder:
 
-- 🏠 `Home.png` – Home page view  
-- 👥 `About Us.png` – About section  
-- 🛠 `Service.png` – Services section  
-- 📰 `Blog.png` – Blog posts  
-- ✉️ `Contact.png` – Contact form  
-- 🗺 `Map.png` – Location map  
+### 🏠 Home Page
+![Home](./Screenshots/Home.png)
 
-[📂 View All in Screenshots Folder](./Screenshots/)
+### 👥 About Us
+![About Us](./Screenshots/About%20Us.png)
+
+### 🛠 Services
+![Service](./Screenshots/Service.png)
+
+### 📰 Blog
+![Blog](./Screenshots/Blog.png)
+
+### ✉️ Contact Form
+![Contact](./Screenshots/Contact.png)
+
+### 🗺 Map Location
+![Map](./Screenshots/Map.png)
 
 ---
 
