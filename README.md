@@ -6,7 +6,7 @@ No source code is included. Each project folder contains its own README and medi
 ## 🗂 Projects
 - [💻 Dental Clinic Management Software](Dental/README.md) — Desktop application
 - [🌐 Portfolio Website](Portfolio/README.md) — Web platform
-- [🏢 Corporate Website](Corporate%20Website/README.md) — Web platform
+- [🏢 Corporate Website](Corporate/README.md) — Web platform
 
 ## 🖼 What You'll Find Here
 - Screenshots of each project
