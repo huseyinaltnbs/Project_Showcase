@@ -56,4 +56,4 @@ A comprehensive desktop application designed for dental clinics to efficiently m
 ---
 
 ## 📜 License
-All rights reserved. See the [LICENSE](../LICENSE.txt) file for details.
+All rights reserved. See the [LICENSE](LICENSE.txt) file for details.
