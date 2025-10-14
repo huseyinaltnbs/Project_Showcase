@@ -1,8 +1,7 @@
 # 🌐 Redemption Portfolio Website
 
 This repository contains **screenshots** and a **GIF demo** of the **Redemption Portfolio Website**.  
-It showcases the main sections of the site and its design features.  
-No source code is included — this repository is for presentation purposes only.
+It showcases the main sections of the site and its design features.
 
 ---
 
