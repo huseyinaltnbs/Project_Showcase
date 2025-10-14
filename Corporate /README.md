@@ -1,4 +1,4 @@
-# ☕ ALTUNBAŞ COFFEE — Website
+# ☕ ALTUNBAŞ COFFEE - Website
 
 Coffee shop website built with **PHP**, **HTML/CSS**, and **JavaScript**.  
 This repository showcases screenshots and a short demo GIF while the project is still in development.
