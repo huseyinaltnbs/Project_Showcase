@@ -47,6 +47,3 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## 📬 Contact
 Please refer to the **Contact** section screenshot for ways to get in touch.
-
----
-**Note:** This repository contains only visual materials (screenshots and demo GIF), not the source code.
