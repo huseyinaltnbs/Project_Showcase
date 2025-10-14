@@ -1,7 +1,7 @@
-# ☕ ALTUNBAŞ COFFEE — Multi-page Website (WIP)
+# ☕ ALTUNBAŞ COFFEE — Website
 
-A multi-page coffee shop website built with **PHP**, **HTML/CSS**, and **JavaScript**.  
-This repository showcases screenshots and a short demo GIF while the project is still in development. Source code is not shared publicly at this time.
+Coffee shop website built with **PHP**, **HTML/CSS**, and **JavaScript**.  
+This repository showcases screenshots and a short demo GIF while the project is still in development.
 
 ## 🚧 Status
 Work in Progress — structure, styling, and PHP page logic are under active development.
