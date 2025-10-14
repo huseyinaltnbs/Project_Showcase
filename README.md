@@ -6,7 +6,7 @@ Each project folder contains its own README and media files.
 ## 🗂 Projects
 - [💻 Dental Clinic Management Software](Dental/README.md) — Desktop application
 - [🌐 Portfolio Website](Portfolio/README.md) — Web platform
-- [🏢 Corporate Website](https://github.com/huseyinaltnbs/Project_Showcase/blob/main/Corporate/README.md) — Web platform
+- [🏢 Corporate Website]([https://github.com/huseyinaltnbs/Project_Showcase/blob/main/Corporate/README.md](https://github.com/huseyinaltnbs/Project_Showcase/edit/main/Corporate%20/README.md)) — Web platform
 
 ## 🖼 What You'll Find Here
 - Screenshots of each project
