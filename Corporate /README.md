@@ -32,8 +32,4 @@ Work in Progress — structure, styling, and PHP page logic are under active dev
 - Reservation & opening hours section
 - Ready for shared hosting or simple PHP servers
 
-## ▶️ Local Preview (when the code is published)
-If/when the code becomes public:
-- With PHP built-in server:
-  ```bash
-  php -S localhost:8000
+
